@@ -51,7 +51,16 @@ Proin nisi orci, mollis imperdiet ipsum ac, mattis semper nunc. Nulla et ullamco
 
 ----
 
+## Links
+
+[This is an inline link](#).
+
+### [This is a heading link](#)
+
+----
+
 ## Tables
+
 <table>
     <tbody>
         <tr>
