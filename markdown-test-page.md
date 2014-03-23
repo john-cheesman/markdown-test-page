@@ -46,9 +46,13 @@ Proin nisi orci, mollis imperdiet ipsum ac, mattis semper nunc. Nulla et ullamco
 
 ## Links
 
-[This is an inline link](#)
+[This is an inline link](# "inline link")
 
-### [This is a heading link](#)
+### [This is a heading link](# "heading link")
+
+This is a [reference link][1]
+
+[1]: # "reference link"
 
 ## Tables
 
