@@ -105,3 +105,13 @@ Proin nisi orci, mollis imperdiet ipsum ac, mattis semper nunc. Nulla et ullamco
 
 ----
 
+## Code
+
+### Preformatted
+
+    <!-- preformatted code block -->
+    <p>This is a block of preformatted code</p>
+
+### Inline
+
+This is some <code>inline code</code>
