@@ -50,9 +50,13 @@ Proin nisi orci, mollis imperdiet ipsum ac, mattis semper nunc. Nulla et ullamco
 
 ### [This is a heading link](# "heading link")
 
-This is a [reference link][1]
+## Images
 
-[1]: # "reference link"
+![small placeholder image](http://placehold.it/300x300 "Small placeholder image")
+
+![medium placeholder image](http://placehold.it/600x300 "Medium placeholder image")
+
+![large placeholder image](http://placehold.it/900x600 "Large placeholder image")
 
 ## Tables
 
