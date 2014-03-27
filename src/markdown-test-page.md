@@ -123,3 +123,7 @@ Proin nisi orci, mollis imperdiet ipsum ac, mattis semper nunc. Nulla et ullamco
 ### Inline
 
 This is some <code>inline code</code>
+
+### Abbreviation
+
+<abbr title="Hyper Text Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheet">CSS</abbr>, <abbr title="PHP Hypertext Processor">PHP</abbr>

@@ -8,6 +8,11 @@ gulp.task('markdown', function() {
 		.pipe(gulp.dest(''));
 });
 
+// Watch task
+gulp.task('watch', function() {
+	gulp.watch('src/*.md', ['markdown']);
+});
+
 // Default task
 gulp.task('default', function() {
 	gulp.start('markdown');
