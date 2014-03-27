@@ -1,0 +1,29 @@
+{
+  "name": "markdown-test-page",
+  "version": "0.0.0",
+  "description": "A page to test base styles for a range of HTML elements, written in Markdown",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/john-cheesman/markdown-test-page.git"
+  },
+  "keywords": [
+    "markdown",
+    "test",
+    "page",
+    "html"
+  ],
+  "author": "John Cheesman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/john-cheesman/markdown-test-page/issues"
+  },
+  "homepage": "https://github.com/john-cheesman/markdown-test-page",
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-markdown": "^0.1.2"
+  }
+}
