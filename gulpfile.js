@@ -3,9 +3,9 @@ var gulp 	 = require('gulp'),
 
 // Markdown task
 gulp.task('markdown', function() {
-	return gulp.src('*.md')
-		.pipe('gulp-markdown')
-		.pipe(gulp.dest());
+	return gulp.src('src/*.md')
+		.pipe(markdown())
+		.pipe(gulp.dest(''));
 });
 
 // Default task
