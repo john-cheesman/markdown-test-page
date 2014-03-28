@@ -61,7 +61,8 @@ Proin nisi orci, mollis imperdiet ipsum ac, mattis semper nunc. Nulla et ullamco
 ## Figures
 
 <figure>
-    <img src="http://placehold.it/
+    ![medium placeholder image](http://placehold.it/500x400&text=5x4 "Medium placeholder image")
+    <figcaption>This is a figure caption for a medium sized placeholder image</figcaption>
 </figure>
 
 ## Tables
