@@ -12,7 +12,11 @@ In the postwar era, Strategic Air Command used the planes as a long-range escort
 ## Design and development
 
 Initially intended as a very long-range (VLR) [escort fighter][8], the F-82 was designed to escort [Boeing B-29 Superfortress][9] bombers on missions exceeding 2,000 miles (3,200 km) from the Solomons or Philippines to Tokyo, missions beyond the range of the [Lockheed P-38 Lightning][10] and conventional P-51 Mustangs. Such missions were part of the planned [U.S. invasion of the Japanese home islands][11], which was forestalled by the [surrender of Japan][12] days after the [atomic bombings of Hiroshima and Nagasaki][13].
-The second prototype North American XP-82 Twin Mustang (44-83887) being flight-tested at Muroc Army Airfield, California.
+
+<figure>
+    ![XP-82 Twin Mustang 44-83887, currently in the Walter Soplata collection.](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/P-82_Twin_Mustang.jpg/800px-P-82_Twin_Mustang.jpg)
+    <figcaption>The second prototype North American XP-82 Twin Mustang (44-83887) being flight-tested at Muroc Army Airfield, California.</figcaption>
+</figure>
 
 In October 1943, the North American Aircraft design team began work on a fighter design that could travel over 2,000 mi (3,200 km) without refueling. It consisted of a two-fuselage design, somewhat similar to the experimental German Messerschmitt Bf 109Z "Zwilling". Although based on the lightweight experimental XP-51F, which would later become the P-51H Mustang, it was actually an entirely new design. North American Design Chief Edgar Schmued incorporated two P-51H Mustang fuselages lengthened by the addition of a 57 in (145 cm) fuselage plug located behind the cockpit where additional fuel tanks and equipment could be installed. These were mounted to a newly designed center wing section containing the same six .50 inches (12.7 mm) M2 Browning machine guns as a single-engine Mustang, but with more concentrated fire. The outer wings were strengthened to allow the addition of hard points for carrying additional fuel or 1,000 pounds (500 kg) of ordnance. The two vertical tails were also from the XP-51F, but incorporated large dorsal fillets for added stability in case of an engine failure. The aircraft had a conventional landing gear with both wheels retracting into bays under each fuselage center section.
 
