@@ -52,11 +52,17 @@ Proin nisi orci, mollis imperdiet ipsum ac, mattis semper nunc. Nulla et ullamco
 
 ## Images
 
-![small placeholder image](http://placehold.it/300x300 "Small placeholder image")
+![small placeholder image](http://placehold.it/300x300&text=1x1 "Small placeholder image")
 
-![medium placeholder image](http://placehold.it/600x300 "Medium placeholder image")
+![medium placeholder image](http://placehold.it/500x400&text=5x4 "Medium placeholder image")
 
-![large placeholder image](http://placehold.it/900x600 "Large placeholder image")
+![large placeholder image](http://placehold.it/800x450&text=16x9 "Large placeholder image")
+
+## Figures
+
+<figure>
+    <img src="http://placehold.it/
+</figure>
 
 ## Tables
 
@@ -124,6 +130,6 @@ Proin nisi orci, mollis imperdiet ipsum ac, mattis semper nunc. Nulla et ullamco
 
 This is some <code>inline code</code>
 
-### Abbreviation
+## Abbreviation
 
-<abbr title="Hyper Text Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheet">CSS</abbr>, <abbr title="PHP Hypertext Processor">PHP</abbr>
+<abbr title="HyperText Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="PHP: Hypertext Preprocessor">PHP</abbr>
